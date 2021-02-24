@@ -1,0 +1,27 @@
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# Unit test reports
+TEST*.xml
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+*.pyc
+*/__pycache__
+
+# source python
+src_python/output/*
+src_python/image/output/*
+
+# source c++
+*/build
+*/*/build
